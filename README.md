@@ -23,9 +23,6 @@
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
 </p>
-- **Languages:** HTML, CSS, JavaScript, Python  
-- **Tools:** Git, GitHub, VS Code, CapCut  
-- **Learning:** Splunk, Elastic, Security Automation  
 
 ---
 
