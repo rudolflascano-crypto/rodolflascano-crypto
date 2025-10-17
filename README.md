@@ -1,11 +1,26 @@
-# 👋 Hi, I’m Rodolfo 
+# 👋 Hey there, I’m Rodolfo (Leo)!
 
-I'm a student at **Lone Star College** focused on **Web Development** and **Cybersecurity**.  
-I enjoy building creative tools with **JavaScript** and **Python**, and I’m learning to use **SIEM platforms** like **Splunk** and **Elastic Security**.
+🎓 Student @ **Lone Star College**  
+💻 Passionate about **Web Development** & **Cybersecurity**  
+⚡ Currently exploring **SIEM tools (Splunk / Elastic Security)** and **front-end design**
 
+![Profile Views](https://komarev.com/ghpvc/?username=rodolflascano-crypto&style=flat-square&color=blue)
 ---
 
 ## 🧰 Tech Stack
+### 💡 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+</p>
 - **Languages:** HTML, CSS, JavaScript, Python  
 - **Tools:** Git, GitHub, VS Code, CapCut  
 - **Learning:** Splunk, Elastic, Security Automation  
@@ -13,6 +28,13 @@ I enjoy building creative tools with **JavaScript** and **Python**, and I’m le
 ---
 
 ## 🚀 Projects
+---
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodolflascano-crypto&show_icons=true&theme=tokyonight" alt="Leo's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolflascano-crypto&layout=compact&theme=tokyonight"/>
+</p>
+
 - 🧮 [Calculator App](#) — Simple calculator with keyboard support and error handling.  
 - 🌎 [Translator App](#) — Language translator that connects to a public API.  
 - 💼 [Portfolio Website](#) — My personal site (in progress).  
@@ -25,6 +47,9 @@ I enjoy building creative tools with **JavaScript** and **Python**, and I’m le
 🌐 **Portfolio:** (coming soon)
 
 ---
+---
 
-> “Building one project at a time — from web tools to secure systems.”
-update: added professional profile info
+☕ If you like what I do, consider supporting me — or just drop a star ⭐ on one of my projects!
+
+> “Keep building. Every small project moves you closer to mastery.”
+
