@@ -28,11 +28,20 @@
 ---
 
 ## 🚀 Projects
----
+
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rodolflascano-crypto&show_icons=true&theme=tokyonight" alt="Leo's GitHub stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodolflascano-crypto&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolflascano-crypto&layout=compact&theme=tokyonight"/>
+</p>
+
 </p>
 
 - 🧮 [Calculator App](#) — Simple calculator with keyboard support and error handling.  
