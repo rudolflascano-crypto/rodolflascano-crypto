@@ -5,7 +5,9 @@
 ⚡ Currently exploring **SIEM tools (Splunk / Elastic Security)** and **front-end design**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rodolflascano-crypto&style=flat-square&color=blue)
+
 ---
+
 
 ## 🧰 Tech Stack
 ### 💡 Languages & Tools
@@ -28,21 +30,23 @@
 ---
 
 ## 🚀 Projects
+---
+> 🌱 Always learning, building, and sharing my progress through small projects.
 
 ### 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodolflascano-crypto&show_icons=true&theme=tokyonight" alt="Leo's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rodolflascano-crypto&show_icons=true&theme=tokyonight&cache_seconds=7200" alt="Leo's GitHub stats"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodolflascano-crypto&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rodolflascano-crypto&theme=tokyonight&cache_seconds=7200" alt="GitHub Streak"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolflascano-crypto&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolflascano-crypto&layout=compact&theme=tokyonight&cache_seconds=7200"/>
 </p>
 
-</p>
 
 - 🧮 [Calculator App](#) — Simple calculator with keyboard support and error handling.  
 - 🌎 [Translator App](#) — Language translator that connects to a public API.  
