@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Rodolfo (Leo)!
+# 👋 Hey there, I’m Rodolfo 
 
 🎓 Student @ **Lone Star College**  
 💻 Passionate about **Web Development** & **Cybersecurity**  
