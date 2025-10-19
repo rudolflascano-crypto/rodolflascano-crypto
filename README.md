@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 ---
 > 🌱 Always learning, building, and sharing my progress through small projects.
 
