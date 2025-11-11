@@ -1,10 +1,10 @@
-# 👋 Hey there, I’m Rodolfo 
+# 👋 Hi, I’m Rodolfo Lascano — Web Development & Cybersecurity Student at Lone Star College
 
 🎓 Student @ **Lone Star College**  
 💻 Passionate about **Web Development** & **Cybersecurity**  
 ⚡ Currently exploring **SIEM tools (Splunk / Elastic Security)** and **front-end design**
 
-![Profile Views](https://komarev.com/ghpvc/?username=rodolflascano-crypto&style=flat-square&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=rodolfolascano&color=brightgreen)
 
 ---
 
@@ -27,27 +27,32 @@
 ---
 
 ## Projects
----
+
 > 🌱 Always learning, building, and sharing my progress through small projects.
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodolflascano-crypto&show_icons=true&theme=tokyonight&cache_seconds=7200" alt="Leo's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rodolflascano-crypto&show_icons=true&theme=tokyonight" alt="Rodolfo's GitHub stats"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rodolflascano-crypto&theme=tokyonight&cache_seconds=7200" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=rodolflascano-crypto&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolflascano-crypto&layout=compact&theme=tokyonight&cache_seconds=7200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolflascano-crypto&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
+### 🧩 Featured Repositories
+-🧮 **Calculator App** — simple calculator with keyboard support and error handling.  
+  🔗 Code: https://github.com/rodolflascano-crypto/calculator-app
 
-- 🧮 [Calculator App](#) — Simple calculator with keyboard support and error handling.  
-- 🌎 [Translator App](#) — Language translator that connects to a public API.  
-- 💼 [Portfolio Website](#) — My personal site (in progress).  
+-🌎 **Translator App** — language translator that connects to a public API.  
+  🔗 Code: https://github.com/rodolflascano-crypto/translator-app
+
+-💼 **Portfolio Website** — my personal site (in progress).  
+  🔗 Code: https://github.com/rodolflascano-crypto/portfolio-website
 
 ---
 
