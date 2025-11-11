@@ -26,21 +26,14 @@
 
 ---
 
-## Projects
+### 🔎 Quick Snapshot
 
 > 🌱 Always learning, building, and sharing my progress through small projects.
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodolflascano-crypto&show_icons=true&theme=tokyonight" alt="Rodolfo's GitHub stats"/>
-</p>
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=rodolflascano-crypto&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolflascano-crypto&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+- 🎓 Student at **Lone Star College** — Web Dev & Cybersecurity
+- 🧰 Projects with **HTML, CSS, JS, Python, Git**
+- 🌐 Bilingual: **English / Spanish**
+- 🎯 Focus: small tools, front-end, and intro cybersecurity labs
 
 
 ### 🧩 Featured Repositories
