@@ -35,14 +35,13 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rodolflascano-crypto&show_icons=true&theme=tokyonight" alt="Rodolfo's GitHub stats"/>
 </p>
-
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=rodolflascano-crypto&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolflascano-crypto&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
 
 ### 🧩 Featured Repositories
 -🧮 **Calculator App** — simple calculator with keyboard support and error handling.  
