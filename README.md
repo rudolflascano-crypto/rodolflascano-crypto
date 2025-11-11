@@ -57,5 +57,5 @@
 
 ☕ If you like what I do, consider supporting me — or just drop a star ⭐ on one of my projects!
 
-> “Keep building. Every small project moves you closer to mastery.”
+> “stay encrypted and stay curious 🔐”
 
