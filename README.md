@@ -32,9 +32,8 @@
 
 - 🎓 Student at **Lone Star College** — Web Dev & Cybersecurity
 - 🧰 Projects with **HTML, CSS, JS, Python, Git**
-- 🌐 Bilingual: **English / Spanish**
-- 🎯 Focus: small tools, front-end, and intro cybersecurity labs
-
+- 🌐 Exploring **Splunk / Elastic Security** and front-end design
+- 🗣️ Bilingual: **English | Spanish**
 
 ### 🧩 Featured Repositories
 -🧮 **Calculator App** — simple calculator with keyboard support and error handling.  
