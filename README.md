@@ -48,7 +48,7 @@
 ---
 
 ## 📫 Connect with Me
-📧 **Email:** rlascano@fgmail.com
+📧 **Email:** rlascano@gmail.com
 💼 **LinkedIn:** www.linkedin.com/in/rodolfo-lascano-222b13315 
 🌐 **Portfolio:** (coming soon)
 
