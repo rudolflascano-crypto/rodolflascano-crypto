@@ -49,7 +49,7 @@
 
 ## 📫 Connect with Me
 📧 **Email:** rlascano@gmail.com
-💼 **LinkedIn:** www.linkedin.com/in/rodolfo-lascano-222b13315 
+💼 **LinkedIn:** www.linkedin.com/in/rodolfo-lascano-cybersecurity
 🌐 **Portfolio:** (coming soon)
 
 ---
