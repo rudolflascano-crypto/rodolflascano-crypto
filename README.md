@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rodolfo Lascano — Web Development & Cybersecurity Student at Lone Star College
+# Hi there, I’m Rodolfo Lascano — Web Development & Cybersecurity Student at Lone Star College
 
 🎓 Student @ **Lone Star College**  
 💻 Passionate about **Web Development** & **Cybersecurity**  
